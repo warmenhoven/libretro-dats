@@ -583,6 +583,9 @@ function getGamesFromXml(filepath, dat) {
 				else if (extname == '.mg1') {
 					// Ignore
 				}
+				else if (extname == '.ptn777') {
+					// Ignore, Epoch Cassette Vision's bin777 is more important
+				}
 				else if (extname.length == 0) {
 					// Ignore zero extension
 				}

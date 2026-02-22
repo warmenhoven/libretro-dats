@@ -174,6 +174,11 @@
 			"input/tosec/TOSEC/Amstrad GX4000 - Games*"
 		]
 	},
+	"database/metadat/tosec/Epoch - Cassette Vision": {
+		"files": [
+			"input/tosec/TOSEC/Epoch Cassette Vision - Games*"
+		]
+	},
 	"database/metadat/tosec/Infocom - Z-Machine": {
 		"files": [
 			"input/tosec/TOSEC/Infocom Z-Machine - *"
@@ -443,6 +448,11 @@
 	"database/metadat/no-intro/Emerson - Arcadia 2001": {
 		"files": [
 			"input/no-intro/No-Intro/Emerson - Arcadia 2001*"
+		]
+	},
+	"database/metadat/no-intro/Interton - VC 4000": {
+		"files": [
+			"input/no-intro/No-Intro/Interton - VC 4000*"
 		]
 	},
 	"database/metadat/no-intro/Entex - Adventure Vision": {
